@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1727105946 source:c:\users\202356826\desktop\g13_project\functions.cpp
+	<sstream>
+	<ctime>
+	<iostream>
+	"functions.hpp"
+	"books.hpp"
+	"user.hpp"
+	<ctime>
+	<sstream>
+	<algorithm>
+	<thread>
+	<chrono>
+
+1727103222 c:\users\202356826\desktop\g13_project\functions.hpp
+	"books.hpp"
+	<string>
+	"user.hpp"
+
+1727104282 source:c:\users\202356826\desktop\g13_project\books.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"books.hpp"
+
+1727103495 c:\users\202356826\desktop\g13_project\books.hpp
+	<string>
+	<vector>
+
+1727103148 source:c:\users\202356826\desktop\g13_project\main.cpp
+	<iostream>
+	"functions.hpp"
+	"user.hpp"
+	"books.hpp"
+	<vector>
+
+1727100993 source:c:\users\202356826\desktop\g13_project\user.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"user.hpp"
+
+1727100637 c:\users\202356826\desktop\g13_project\user.hpp
+	<string>
+	<vector>
+
